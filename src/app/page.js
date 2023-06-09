@@ -1,5 +1,5 @@
 'use client';
-import Oneuser from '../app/oneuser'
+import Oneuser from '../app/components/oneuser'
 export default function Home() {
 
   return <main>
